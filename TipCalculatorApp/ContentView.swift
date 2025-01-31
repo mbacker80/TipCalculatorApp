@@ -5,6 +5,12 @@
 //  Created by James Jolly on 1/30/25.
 //
 
+/*
+ CS-4153 Mobile Applications
+ Individual Assignment 1
+ Due 1-31-2025
+ */
+
 import SwiftUI
 
 struct ContentView: View {
@@ -71,6 +77,7 @@ struct ContentView: View {
                     .padding(.horizontal, 20)
                     .padding(.bottom, 20)
             }
+            
             .padding()
             
             if showResults {
